@@ -1,0 +1,23 @@
+Araucana,10
+Leghorn,5
+Orpington,8
+Wyandotte,3
+Plymouth Rock,12
+Silkie,6
+Rhode Island Red,9
+Brahma,4
+Sussex,7
+Marans,2
+Barnevelder,11
+Polish,5
+Faverolles,8
+Sultan,3
+Hamburg,6
+Campine,9
+Ancona,4
+La Fleche,7
+Minorca,2
+Andalusa,11
+Houdan,5
+Appenzeller,8
+Dorking,3

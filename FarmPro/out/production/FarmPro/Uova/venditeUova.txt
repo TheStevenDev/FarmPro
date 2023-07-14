@@ -1,0 +1,25 @@
+Plymouth Rock,135,2022-11-19
+Barnevelder,128,2022-12-17
+Andalusa,118,2021-10-14
+Sussex,112,2021-09-06
+Orpington,104,2020-02-14
+Campine,102,2020-08-02
+Appenzeller,96,2020-04-16
+Rhode Island Red,93,2019-03-09
+Araucana,87,2018-05-12
+Faverolles,87,2018-06-13
+La Fleche,78,2019-10-25
+Wyandotte,72,2016-07-03
+Polish,57,2017-01-07
+Brahma,51,2016-08-21
+Silkie,48,2015-06-28
+Hamburg,42,2016-11-08
+Ancona,37,2017-05-15
+Leghorn,32,2017-09-26
+Houdan,29,2016-05-31
+Marans,24,2015-04-02
+Minorca,23,2021-06-02
+Dorking,21,2015-10-07
+Sultan,19,2015-03-30
+Minorca,15,2015-02-05
+Minorca,10,2023-01-02

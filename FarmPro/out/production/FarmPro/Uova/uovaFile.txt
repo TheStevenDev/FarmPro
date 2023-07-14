@@ -1,0 +1,52 @@
+Araucana,50
+Leghorn,23
+Orpington,37
+Wyandotte,12
+Plymouth Rock,65
+Silkie,29
+Rhode Island Red,42
+Brahma,18
+Sussex,27
+Marans,8
+Barnevelder,56
+Polish,25
+Faverolles,33
+Sultan,11
+Hamburg,27
+Campine,39
+Ancona,15
+La Fleche,30
+Minorca,39
+Andalusa,47
+Houdan,22
+Appenzeller,36
+Dorking,10
+Cochin,26
+Old English Game,38
+Crevecoeur,16
+Holland,34
+Java,9
+Jersey Giant,53
+Lakenvelder,24
+Malay,37
+New Hampshire,13
+Nankin,28
+Niederrheiner,41
+Redcap,17
+Sussex,24
+Sultans,7
+Vorwerk,48
+Cubalaya,21
+Buckeye,35
+Rhode Island Red,11
+Fayoumi,25
+Sicilian Buttercup,39
+Welsummer,14
+Serama,31
+Blue Andalusian,8
+Sablepoot,46
+Hedemora,20
+Hokkaido,33
+Serama,10
+Sicilian Buttercup,27
+Sumatra,44
